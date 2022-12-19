@@ -30,6 +30,10 @@ public class pageDrag {
         return btn_retry;
     }
 
+    public By getGetCongrat() {
+        return getCongrat;
+    }
+
     public void setBtn_retry(By btn_retry) {
         this.btn_retry = btn_retry;
     }
